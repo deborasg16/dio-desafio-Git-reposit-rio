@@ -1,2 +1,2 @@
-# dio-desafio-Git-reposit-rio
+# dio-desafio-Git-repositório
 Desafio Dio
